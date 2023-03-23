@@ -9,7 +9,7 @@ I chose the ´Say the number´ option. I wrote a Java code that creates a public
 
 I added the following dependencies on the ´SectionC.iml´:
 
-´´´<dependency>
+´´´ <dependency>
 <groupId>org.junit</groupId>
 <artifactId>junit-bom</artifactId>
 <version>5.9.1</version>
